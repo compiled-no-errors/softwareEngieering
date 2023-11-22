@@ -1,1 +1,120 @@
+Software is collection of programs, documentation and operating procedures. (IMP)
+
+Characterstics of sofwtare -
+- it is created or engineered 
+- it does not degrade with time 
+- it is custom built (IMP point)
+
+
+Types of software - 
+system software 
+application software 
+AI software and many more 
+
+
+Sofware Product- created to meet specific need
+
+
+Sofware Engineering - creating software products based on scientific concepts, practices and procedures 
+
+
+Need for software engineering - change in user needs and environment 
+
+Dynamic nature - dynamic means change 
+
+new enhancement 
+
+quality management 
+
+
+Kinds of sofware- 
+
+System software , Appklicatiobns, embedded software, Web Apps, Open Source, Productline Software, Ubiquitous Computing etc.
+
+
+Legacy softwares are the old programmes that were created decades ago 
+why - software must be modified, software architecture change and new needs for business requirements
+
+
+
+Very IMP- 
+
+Software Process-
+
+1st Requirement (need) and Gather Info (Eliciation)
+2nd Design and Implementation
+3rd Validate and Test and Deploy
+4th Maintenance (evloution)
+
+
+Project Requirement -
+
+ Project's Size , Difficulty, Customer Involvement, Familirity with  technology 
+
+
+Product and Process -
+End result of project is product 
+step by step is process 
+
+
+Sofware Process >>>>> Sosftware Project >>>>>> Software Product
+
+
+Types of Software Product- 
+
+Generic Products - common to all
+Customized Products - specefically designed for someone
+
+Characterstics of well engineered sofware product- 
+
+Effeciency, Maintanibility, Dependability, In Time, Within Budget, Functionality 
+
+
+Software Development Lifecycle (IMP)-
+
+SDLC method to plan create and test high quality software 
+
+
+7 phases -
+
+1st Planning- 
+
+
+, defining, designing, Building, testing, Deployment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
