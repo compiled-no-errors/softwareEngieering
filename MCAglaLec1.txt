@@ -79,8 +79,29 @@ SDLC method to plan create and test high quality software
 
 1st Planning- 
 
+requiremnt analysis,input from customers, feasibility , identify project risks and plan for the reqirements 
 
-, defining, designing, Building, testing, Deployment
+2nd Defining
+
+describe and record the product needs, SRS document (sofwtare requireent specification)
+
+3rd Designing the product architecture -
+
+DDS 
+product's architectural concepts
+
+
+4th Building 
+
+genrate code in organized way 
+
+
+5th Testing
+
+
+6th Deployment
+
+
 
 
 
