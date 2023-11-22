@@ -25,11 +25,61 @@ Operating Procedeure
 - Installatuion guiudes, ref guides .etc. 
 
 
-Preciptive Process Models
+Preciptive Process Models (all are 7 phases)
 
 - Waterfall Model/ Classic Lifecycle Model /Linear Sequintial Model/casscading
+step by step, cant go back, based on build and fix model 
+
+uses good habits : define before design and design before code
+
+Advantages - clear uunderstanding of need, simple to manage, quality, theoritical
+
+disadvanategs - not good for complex projects, risk is high, not practical 
+
+- Incremental Porccess Model
+breaks into parts 
+
+end phases is the first phases of next incremental 
+
+Advantages - flexible,  easy to test and debug, 
+
+Disadvantages- reqires clear and complete planning, demand of customer, 
 
 
+-RAD(Rapid Application Development)
+short period of time 
+commuciation between customer and developer 
+requirements diivided into different groups 
+proof of concept
+
+-Spiral Model/Mera Model
+
+4 stage of iteration and process is cummalitive 
+REDUCES RISKS (IMP)
+
+Risk Analysis 
+
+applied to medium to high risk project
+long term project commitment 
+
+Advantages -
+
+
+
+Disadvantages - Management complex, complex process, spiral go indefinetely, excess documentation
+
+ 
+
+
+
+
+
+
+
+
+
+
+SCRUM AGILE model is currently used 
 
 
 
